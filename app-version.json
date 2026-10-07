@@ -1,14 +1,14 @@
 {
   "android": {
-    "latestVersion": "1.2.2",
-    "minVersion": "1.1.6",
+    "latestVersion": "2.0.6",
+    "minVersion": "2.0.6",
     "storeUrl": "market://details?id=com.woholmoney.app",
     "fallbackStoreUrl": "https://play.google.com/store/apps/details?id=com.woholmoney.app",
     "message": "새 버전이 있어요. 업데이트 후 이용해 주세요."
   },
   "ios": {
-    "latestVersion": "1.2.2",
-    "minVersion": "1.1.6",
+    "latestVersion": "2.0.6",
+    "minVersion": "2.0.6",
     "storeUrl": "itms-apps://itunes.apple.com/app/id6778214980",
     "fallbackStoreUrl": "https://apps.apple.com/app/id6778214980",
     "message": "새 버전이 있어요. 업데이트 후 이용해 주세요."
